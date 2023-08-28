@@ -8,7 +8,7 @@ For their first order of business, they have been performing some analyses, and 
 
 This is the analysis to explore the decline in movie duration in the recent decade.
 
-## Project Publication link: https://app.datacamp.com/workspace/w/716cc657-27e2-46db-9f87-1f3877d84e6c
+# Project Publication link: https://app.datacamp.com/workspace/w/716cc657-27e2-46db-9f87-1f3877d84e6c
 
 ### Resources:
 link: https://www.marketwatch.com/story/netflix-shares-close-up-8-for-yet-another-record-high-2020-07-10
